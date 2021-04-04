@@ -5,3 +5,5 @@ Once I created the planmytrip app, Jack recommended a few changes to take the ap
 ![weatherpy_vacation](Vacation_search/WeatherPy_vacation_map.PNG)
 
 ![vacation_itinerary](Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
+
+![vacation_itinerary](Vacation_Itinerary/WeatherPy_travel_map.PNG)
